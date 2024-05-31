@@ -14,14 +14,14 @@
 
 .topContent_container > p{
     letter-spacing: 1px;
-    text-align:left;
+    text-align:center;
     padding:5px 2px;
     margin-top: 10px;
 }
 
 .topContent_container > a >button{
     margin-bottom: 30px;
-    text-align: left;
+    text-align: center;
     margin-left: 5px;
     margin-top: 20px;
     padding:7px;
